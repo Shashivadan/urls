@@ -13,7 +13,7 @@ const hobbies = [
   "reading",
   "photography",
   "cooking",
-] as string[];
+];
 
 const links = [
   {

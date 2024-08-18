@@ -1,5 +1,5 @@
 import React from "react";
-import Image from "next/image";
+
 import { config } from "@/data/config";
 
 export default function Header() {

@@ -1,7 +1,7 @@
 import React from "react";
 
 import { Alert } from "@/components/ui/alert";
-import { Linkedin } from "lucide-react";
+
 import { config } from "../data/config";
 export default function Social() {
   return (
