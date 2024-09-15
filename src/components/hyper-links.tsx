@@ -38,7 +38,7 @@ export default function HyperLinks() {
         <motion.a
           key={index}
           href={link.link}
-          className="isolate p-2 w-full md:w-1/2 rounded-xl bg-white/20 shadow-lg ring-1 ring-black/5 text-base hover:bg-white/30 transition-colors"
+          className="isolate p-2 w-full md:w-1/2 rounded-xl  bg-white/10 shadow-lg ring-1 ring-black/5 text-base hover:bg-white/20 transition-colors"
           target="_blank"
           rel="noopener noreferrer"
           variants={itemVariants}
