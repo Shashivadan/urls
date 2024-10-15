@@ -2,7 +2,7 @@ const bgBanner =
   "https://pbs.twimg.com/profile_banners/1335178602254516224/1711816745";
 
 const avater =
-  "https://pbs.twimg.com/profile_images/1823049781071015936/DQCt1rWR_400x400.jpg";
+  "https://pbs.twimg.com/profile_images/1846218315615948802/SrU15SG5_400x400.jpg";
 
 const name = "Shashivadan";
 
